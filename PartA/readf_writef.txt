@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+// readf writef
+int n;
+writef("%d", &n);
+readf("hello \n");
+}

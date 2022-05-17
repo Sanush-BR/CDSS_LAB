@@ -1,0 +1,7 @@
+5 pRODUCTIONS
+
+E=TD
+D=+TD
+D=$
+T=FS
+S=*FS
